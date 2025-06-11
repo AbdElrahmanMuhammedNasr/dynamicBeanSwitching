@@ -1,9 +1,9 @@
 package com.example.demo;
 
+import com.example.demo.code.PaymentProcessor;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
-import org.springframework.stereotype.Component;
 
 import java.util.Arrays;
 import java.util.Map;
